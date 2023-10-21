@@ -10,8 +10,8 @@ Exploratory data analysis is used to understand the messages within a dataset. T
 - Step4: Return the objects containing counts of unique values using (value_counts()).
 - Step5: Plot the counts in the form of Histogram or Bar Graph.
 ```
-Developed By: 212222230120  
-Register Number: ROHIT JAIN D
+Developed By: 212222230138
+Register Number: SATHISH R
 ```
 ### Program:
 - SuperStore.csv
